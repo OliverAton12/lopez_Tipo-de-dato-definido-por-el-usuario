@@ -1,0 +1,3 @@
+Calificación: 2.2/3
+Al momento de agregar libros, estos se deben agregar de 1 en 1, es decir, no debe pedir nuevamente todos los libros.
+Falta: Qué es un tipo de dato estructurado?
